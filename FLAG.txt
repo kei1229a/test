@@ -1,1 +1,1 @@
-import subprocess;res = subprocess.call(['curl', 'https://raw.githubusercontent.com/kei1229a/test/main/FLAG.txt']);print(res) 0
+import subprocess;res = subprocess.call(['curl', 'https://raw.githubusercontent.com/kei1229a/test/main/FLAG.txt']);print(res+" 0")
