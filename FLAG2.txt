@@ -1,0 +1,1 @@
+import subprocess;res = subprocess.run(['curl', 'https://raw.githubusercontent.com/kei1229a/test/main/FLAG2.txt'], capture_output=True);print(res.stdout.decode())
